@@ -1,0 +1,41 @@
+body{
+    margin-top: 20%;
+}
+.container{
+    margin:auto;
+    padding: 25px;
+    max-width: 300px;
+    border-radius: 10px;
+    background-color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+}
+
+input{
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border:none
+}
+
+button{
+    margin-left: 40%;
+    font-size: 15px;  
+}
+
+#resultado{
+    margin-top: 10px;
+    box-sizing: border-box;
+    padding: 5px;
+    text-align: center;
+    width: 300px;
+    background-color: skyblue;
+    border-radius: 10px;
+}
